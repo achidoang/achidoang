@@ -2,10 +2,7 @@
 
 Perkenalkan nama saya **Muhammad Aji Saputra **.\
 
-Saya seorang **Curriculum Developer** di [Dicoding](https://www.dicoding.com/).\
-
-Saya bertanggung jawab pada kualitas materi iOS dengan dibekali [sertifikasi dari University of Toronto](https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M).\
-
+Saya seorang mahasiswa S-1 Teknik Informatika yang sedang mempelajari bidang **Mobile Developer** 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/muhammadajisaputra/)ku ya.
 
 <p align="left">
