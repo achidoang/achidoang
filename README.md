@@ -1,6 +1,6 @@
 # Halo semua! 
 
-Perkenalkan nama saya **Muhammad Aji Saputra **.\
+Perkenalkan nama saya **Muhammad Aji Saputra**
 
 Saya seorang mahasiswa S-1 Teknik Informatika yang sedang mempelajari bidang **Mobile Developer** 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/muhammadajisaputra/)ku ya.
