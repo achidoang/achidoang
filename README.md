@@ -18,7 +18,7 @@ https://simpleicons.org/
 <h2 align='center'><strong>Hallo 👋, saya Muhammad Aji Saputra</strong></h2>
 <!-- <h3 align='center'><strong><a href="https://ahmad-sawalqeh.github.io/my_resume/" target="_blank">Portfolio🌐</a></strong></h3> -->
 <p align='center'>Software developer | Mobile Developer | Web developer</p>
-<p align='left'> saya seorang mahasiswa sarjana jurusan Teknik Informatika di Universitas Muhammadiyah Surakarta dengan spesialisasi sebagai **mobile developer**. Saya telah mengembangkan banyak pengalaman berharga dalam berbagai peran kepemimpinan, memperluas jaringan relasi, serta mengasah kemampuan tim dan pembelajaran adaptif. Saya dikenal sebagai individu yang mampu berkolaborasi secara efektif dalam tim, memiliki kemampuan belajar yang cepat, dan selalu berdedikasi tinggi dalam setiap tugas yang saya hadapi</p>
+<p align='left'> saya seorang mahasiswa sarjana jurusan Teknik Informatika di Universitas Muhammadiyah Surakarta dengan spesialisasi sebagai <strong>mobile developer</strong>. Saya telah mengembangkan banyak pengalaman berharga dalam berbagai peran kepemimpinan, memperluas jaringan relasi, serta mengasah kemampuan tim dan pembelajaran adaptif. Saya dikenal sebagai individu yang mampu berkolaborasi secara efektif dalam tim, memiliki kemampuan belajar yang cepat, dan selalu berdedikasi tinggi dalam setiap tugas yang saya hadapi</p>
 
 
 💻 **Languages and Tools:** ✉️<br>
