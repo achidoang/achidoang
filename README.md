@@ -11,7 +11,7 @@ https://simpleicons.org/
 <br>
 <br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Muhammad%20Aji%20Saputra-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/muhammadajisaputra/)
-[![Email](https://img.shields.io/badge/Gmail-muhammadaji1614@gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:muhammadaji1614@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-muhammadaji1614@gmail.com-blue?logo=Gmail&logoColor=red&labelColor=black)](mailto:muhammadaji1614@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-Muhammad%20Aji%20Saputra-blue?logo=instagram&logoColor=white&labelColor=black)](https://Instagram.com/achiaja_)
 
 
