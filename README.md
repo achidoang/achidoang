@@ -47,3 +47,11 @@ https://simpleicons.org/
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gilangadhan&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+🔑 **Project:** 📲<br>
+<br>
+[![Mobile](https://img.shields.io/badge/NewsApp-Muhammad%20Aji%20Saputra-blue?labelColor=black)](https://github.com/achidoang/NewsApp)
+[![Mobile](https://img.shields.io/badge/NewsApp-Muhammad%20Aji%20Saputra-blue?labelColor=black)](https://github.com/GymToolKit/GymToolKit-bangkit-MobileDevelopment)
+[![Website](https://img.shields.io/badge/ScriptShare-Muhammad%20Aji%20Saputra-blue?labelColor=black)](https://github.com/its0din-ai/scriptshare)
+
+
