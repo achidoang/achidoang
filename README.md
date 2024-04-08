@@ -42,6 +42,7 @@ https://simpleicons.org/
 [![Sertifikat](https://img.shields.io/badge/Sertifikat-Muhammad%20Aji%20Saputra-blue?labelColor=black)](https://github.com/achidoang/sertifikat.git)
 
 <br>
+
 🔑 **Project:** 📲<br>
 <br>
 [![Mobile](https://img.shields.io/badge/NewsApp-Muhammad%20Aji%20Saputra-blue?labelColor=black)](https://github.com/achidoang/NewsApp)
