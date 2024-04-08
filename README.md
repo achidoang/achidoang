@@ -45,9 +45,9 @@ https://simpleicons.org/
 
 🔑 **Project:** 📲<br>
 <br>
-[![Mobile](https://img.shields.io/badge/NewsApp-Muhammad%20Aji%20Saputra-blue?labelColor=black)](https://github.com/achidoang/NewsApp)
-[![Mobile](https://img.shields.io/badge/NewsApp-Muhammad%20Aji%20Saputra-blue?labelColor=black)](https://github.com/GymToolKit/GymToolKit-bangkit-MobileDevelopment)
-[![Website](https://img.shields.io/badge/ScriptShare-Muhammad%20Aji%20Saputra-blue?labelColor=black)](https://github.com/its0din-ai/scriptshare)
+[![Mobile](https://img.shields.io/badge/Mobile-NewsApp-blue?labelColor=black)](https://github.com/achidoang/NewsApp)
+[![Mobile](https://img.shields.io/badge/Mobile-GymToolkit-blue?labelColor=black)](https://github.com/GymToolKit/GymToolKit-bangkit-MobileDevelopment)
+[![Website](https://img.shields.io/badge/Website-ScriptShare-blue?labelColor=black)](https://github.com/its0din-ai/scriptshare)
 
 <p align="left">
 <a href="https://github.com/achidoang">
