@@ -41,6 +41,13 @@ https://simpleicons.org/
 <br>
 [![Sertifikat](https://img.shields.io/badge/Sertifikat-Muhammad%20Aji%20Saputra-blue?labelColor=black)](https://github.com/achidoang/sertifikat.git)
 
+<br>
+🔑 **Project:** 📲<br>
+<br>
+[![Mobile](https://img.shields.io/badge/NewsApp-Muhammad%20Aji%20Saputra-blue?labelColor=black)](https://github.com/achidoang/NewsApp)
+[![Mobile](https://img.shields.io/badge/NewsApp-Muhammad%20Aji%20Saputra-blue?labelColor=black)](https://github.com/GymToolKit/GymToolKit-bangkit-MobileDevelopment)
+[![Website](https://img.shields.io/badge/ScriptShare-Muhammad%20Aji%20Saputra-blue?labelColor=black)](https://github.com/its0din-ai/scriptshare)
+
 <p align="left">
 <a href="https://github.com/achidoang">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gilangadhan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -48,10 +55,6 @@ https://simpleicons.org/
 </a>
 </p>
 
-🔑 **Project:** 📲<br>
-<br>
-[![Mobile](https://img.shields.io/badge/NewsApp-Muhammad%20Aji%20Saputra-blue?labelColor=black)](https://github.com/achidoang/NewsApp)
-[![Mobile](https://img.shields.io/badge/NewsApp-Muhammad%20Aji%20Saputra-blue?labelColor=black)](https://github.com/GymToolKit/GymToolKit-bangkit-MobileDevelopment)
-[![Website](https://img.shields.io/badge/ScriptShare-Muhammad%20Aji%20Saputra-blue?labelColor=black)](https://github.com/its0din-ai/scriptshare)
+
 
 
