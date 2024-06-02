@@ -46,9 +46,11 @@ https://simpleicons.org/
 🔑 **Project:** 📲<br>
 <br>
 [![Mobile](https://img.shields.io/badge/Mobile-NewsApp-blue?labelColor=black)](https://github.com/achidoang/NewsApp)
-[![Mobile](https://img.shields.io/badge/Mobile-NewsApp-blue?labelColor=black)](https://github.com/achidoang/vanila-movie)
+[![Mobile](https://img.shields.io/badge/Mobile-VanilaMovie-blue?labelColor=black)](https://github.com/achidoang/vanila-movie)
 [![Mobile](https://img.shields.io/badge/Mobile-GymToolkit-blue?labelColor=black)](https://github.com/GymToolKit/GymToolKit-bangkit-MobileDevelopment)
 [![Website](https://img.shields.io/badge/Website-ScriptShare-blue?labelColor=black)](https://github.com/its0din-ai/scriptshare)
+[![IOT](https://img.shields.io/badge/IOT-MonitoringGreenHouse-blue?labelColor=black)](https://github.com/its0din-ai/scriptshare)
+
 
 <p align="left">
 <a href="https://github.com/achidoang">
